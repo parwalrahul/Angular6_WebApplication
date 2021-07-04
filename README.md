@@ -1,6 +1,6 @@
 # FirstProgram
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.2. for practice by Rahul Parwal.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.2. for practice by Rahul.
 
 ## Development server
 
